@@ -1,8 +1,6 @@
 # Docs
 Technical and management documentation of "Voltron Inc." organization
 
-#### FAQ
-
 #### General info
 * [FAQ](Common/FAQ.md)
 * [Manifesto](Common/Manifesto.md)
