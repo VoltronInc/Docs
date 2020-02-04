@@ -13,11 +13,11 @@
 - GitHub ([Voltron Inc.](https://github.com/VoltronInc))
 
 #### Kanban board:
-- Trello  ([VoltronPizza](https://trello.com/b/SKgp6UFu))
+- Trello  ([Voltron Pizza Board](https://trello.com/b/SKgp6UFu))
 
 #### Communications:
 - Telegram teamchat
 
 #### Test documentation:
 - GitHub ([Docs](https://github.com/VoltronInc/Docs))
-- Google Docs ([Google Drive](https://drive.google.com/open?id=199LsI4VXavdr2Za2BMm64CKiNAzcHXJ4))
+- Google Docs ([Raw docs](https://drive.google.com/open?id=199LsI4VXavdr2Za2BMm64CKiNAzcHXJ4))
