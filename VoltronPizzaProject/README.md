@@ -3,5 +3,5 @@ Technical and management documentation of "Voltron Pizza" project of study proje
 Open International University of Human Development "Ukraine"
 
 * [User Stories](UserStories.md)
-* [Use Cases](UseCases.md)
+* [Use Cases](Plan.md)
 * [UMLs](UMLs.md)
